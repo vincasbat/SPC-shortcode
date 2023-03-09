@@ -1,0 +1,20 @@
+
+
+.entry-content table  {
+
+background-color:#F9F9FC /* #f0f5f5; */
+
+}
+
+.entry-content input {
+background:#F9F9FC;
+}
+
+.entry-content table > thead > tr > th, 
+.entry-content table > tbody > tr > th, 
+.entry-content table > tfoot > tr > th, 
+.entry-content table > thead > tr > td, 
+.entry-content table > tbody > tr > td, 
+.entry-content table > tfoot > tr > td {
+    border: 0px;
+}
